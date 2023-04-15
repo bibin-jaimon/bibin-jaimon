@@ -1,5 +1,14 @@
-### Hi there 👋
-
+<hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Bibin! 👋 <br>
+    🔥 Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: Swift, SwiftUI, JavaScript, ReactNative, Nodejs ... <br>
+    :email:	bibinjaimon@gmail.com <br>
+    :art: Portfolio: https://bibin-jaimon.github.io <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/bibinjaimon <br>
+  </samp>
+</p>
 <!--
 **bibin-jaimon/bibin-jaimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
