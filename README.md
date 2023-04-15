@@ -10,3 +10,10 @@ Email address: bibinjaimon@gmail.com
 
 ### [QBurst](https://www.qburst.com/) (Senior Engineer) | May 2018 - Sep 2021
 
+## Online Certifications
+
+### SwiftUI Masterclass 2023 - iOS App Development & Swift | Udemy | Pursuing
+
+## Education
+
+### B. Tech in Computer Science and Engineering | Kannur University | 2014 - 2018
