@@ -1,4 +1,4 @@
-# Bibin Jaimon - iOS Developer | SwiftUI
+# Bibin Jaimon - iOS Developer Portfolio | SwiftUI
 
 
 ## Fructus App
