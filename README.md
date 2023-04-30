@@ -18,6 +18,23 @@ Fructus App
 </tr>
 </table>
 
+Restart App
+
+<table>
+<td width="25%">
+<img src="restart-app/1.png"></img>
+</td>
+<td width="25%">
+<img src="restart-app/2.png"></img>
+</td>
+<td width="25%">
+<img src="restart-app/3.png"></img>
+</td>
+<td width="25%">
+<img src="restart-app/4.png"></img>
+</td>
+</tr>
+</table>
 
 Email address: bibinjaimon@gmail.com 
 
