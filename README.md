@@ -18,6 +18,25 @@
 </tr>
 </table>
 
+# Pinch App
+
+<table>
+<td width="25%">
+<img src="pinch-app/1.png"></img>
+</td>
+<td width="25%">
+<img src="pinch-app/2.png"></img>
+</td>
+<td width="25%">
+<img src="pinch-app/3.png"></img>
+</td>
+<td width="25%">
+<img src="pinch-app/4.png"></img>
+</td>
+</tr>
+</table>
+
+
 # Restart App
 
 <table>
