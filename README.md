@@ -19,6 +19,22 @@
 </tr>
 </table>
 
+<table>
+<td width="25%">
+<img src="fructus-app/ipad/1.png"></img>
+</td>
+<td width="25%">
+<img src="fructus-app/ipad/2.png"></img>
+</td>
+<td width="25%">
+<img src="fructus-app/ipad/3.png"></img>
+</td>
+<td width="25%">
+<img src="fructus-app/ipad/4.png"></img>
+</td>
+</tr>
+</table>
+
 ## Pinch App
 
 <table>
