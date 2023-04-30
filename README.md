@@ -1,6 +1,6 @@
 ### Bibin Jaimon
 
-Fructus App
+# Fructus App
 
 <table>
 <td width="25%">
@@ -18,7 +18,7 @@ Fructus App
 </tr>
 </table>
 
-Restart App
+# Restart App
 
 <table>
 <td width="25%">
