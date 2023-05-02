@@ -1,7 +1,7 @@
 # Bibin Jaimon - iOS Developer Portfolio | SwiftUI
 
 
-## Fructus App
+## Fructus App - SwiftUI
 
 <table>
 <td width="25%">
@@ -35,7 +35,7 @@
 </tr>
 </table>
 
-## Pinch App
+## Pinch App - SwiftUI
 
 <table>
 <td width="25%">
@@ -54,7 +54,7 @@
 </table>
 
 
-## Restart App
+## Restart App - SwiftUI
 
 <table>
 <td width="25%">
