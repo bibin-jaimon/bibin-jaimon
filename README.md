@@ -5,7 +5,7 @@
 
 <table>
 <td width="25%">
-<img src="fructus-app/1.png"></img>
+<img src="fructus-app/animation.gif"></img>
 </td>
 <td width="25%">
 <img src="fructus-app/2.png"></img>
