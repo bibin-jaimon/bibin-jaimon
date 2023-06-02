@@ -1,5 +1,14 @@
 # Bibin Jaimon - iOS Developer Portfolio | SwiftUI
+Email address: bibinjaimon@gmail.com 
+LeetCode: https://leetcode.com/bibinjaimon/
 
+
+DEV.to: https://dev.to/bibinjaimon
+LinkedIn: https://www.linkedin.com/in/bibinjaimon/
+
+## Skills
+
+Swift | SwiftUI | JavaScript | React Native | MVVM | MVC | Coordinator Pattern | SOLID Principle | Problem Solving | Algorithms and Data Structure
 
 ## Fructus App - SwiftUI
 
@@ -71,27 +80,6 @@
 </td>
 </tr>
 </table>
-
-Email address: bibinjaimon@gmail.com 
-
-LeetCode: https://leetcode.com/bibinjaimon/
-
-DEV.to: https://dev.to/bibinjaimon
-
-LinkedIn: https://www.linkedin.com/in/bibinjaimon/
-
-
-## Skills
-
-Swift | SwiftUI | JavaScript | React Native
-
-MVVM | MVC | Coordinator Pattern
-
-SOLID Principle
-
-Problem Solving
-
-Algorithms and Data Structure
 
 
 ## Experience
