@@ -16,32 +16,32 @@ Swift | SwiftUI | JavaScript | React Native | MVVM | MVC | Coordinator Pattern |
 
 <table>
 <td width="25%">
-<img src="fructus-app/animation.gif"></img>
+<img src="assets/fructus-app/animation.gif"></img>
 </td>
 <td width="25%">
-<img src="fructus-app/2.png"></img>
+<img src="assets/fructus-app/2.png"></img>
 </td>
 <td width="25%">
-<img src="fructus-app/3.png"></img>
+<img src="assets/fructus-app/3.png"></img>
 </td>
 <td width="25%">
-<img src="fructus-app/4.png"></img>
+<img src="assets/fructus-app/4.png"></img>
 </td>
 </tr>
 </table>
 
 <table>
 <td width="25%">
-<img src="fructus-app/ipad/1.png"></img>
+<img src="assets/fructus-app/ipad/1.png"></img>
 </td>
 <td width="25%">
-<img src="fructus-app/ipad/2.png"></img>
+<img src="assets/fructus-app/ipad/2.png"></img>
 </td>
 <td width="25%">
-<img src="fructus-app/ipad/3.png"></img>
+<img src="assets/fructus-app/ipad/3.png"></img>
 </td>
 <td width="25%">
-<img src="fructus-app/ipad/4.png"></img>
+<img src="assets/fructus-app/ipad/4.png"></img>
 </td>
 </tr>
 </table>
@@ -50,16 +50,16 @@ Swift | SwiftUI | JavaScript | React Native | MVVM | MVC | Coordinator Pattern |
 
 <table>
 <td width="25%">
-<img src="pinch-app/1.png"></img>
+<img src="assets/pinch-app/1.png"></img>
 </td>
 <td width="25%">
-<img src="pinch-app/2.png"></img>
+<img src="assets/pinch-app/2.png"></img>
 </td>
 <td width="25%">
-<img src="pinch-app/3.png"></img>
+<img src="assets/pinch-app/3.png"></img>
 </td>
 <td width="25%">
-<img src="pinch-app/4.png"></img>
+<img src="assets/pinch-app/4.png"></img>
 </td>
 </tr>
 </table>
@@ -69,16 +69,16 @@ Swift | SwiftUI | JavaScript | React Native | MVVM | MVC | Coordinator Pattern |
 
 <table>
 <td width="25%">
-<img src="restart-app/1.png"></img>
+<img src="assets/restart-app/1.png"></img>
 </td>
 <td width="25%">
-<img src="restart-app/2.png"></img>
+<img src="assets/restart-app/2.png"></img>
 </td>
 <td width="25%">
-<img src="restart-app/3.png"></img>
+<img src="assets/restart-app/3.png"></img>
 </td>
 <td width="25%">
-<img src="restart-app/4.png"></img>
+<img src="assets/restart-app/4.png"></img>
 </td>
 </tr>
 </table>
