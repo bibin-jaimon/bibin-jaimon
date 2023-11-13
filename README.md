@@ -2,11 +2,12 @@
 <img src="assets/banner.png"></img>
 # Bibin Jaimon - iOS Developer Portfolio | SwiftUI
 Email address: bibinjaimon@gmail.com 
-LeetCode: https://leetcode.com/bibinjaimon/
 
+LinkedIn: https://www.linkedin.com/in/bibinjaimon/
 
 DEV.to: https://dev.to/bibinjaimon
-LinkedIn: https://www.linkedin.com/in/bibinjaimon/
+
+LeetCode: https://leetcode.com/bibinjaimon/
 
 ## Skills
 
