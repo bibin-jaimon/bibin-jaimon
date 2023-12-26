@@ -1,19 +1,16 @@
 
 <img src="assets/banner.png"></img>
 # Bibin Jaimon - iOS Developer Portfolio | SwiftUI
-Email address: bibinjaimon@gmail.com 
-
-LinkedIn: https://www.linkedin.com/in/bibinjaimon/
-
-DEV.to: https://dev.to/bibinjaimon
-
-LeetCode: https://leetcode.com/bibinjaimon/
+- [Gmail](bibinjaimon@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/bibinjaimon/)
+- [DEV.to](https://dev.to/bibinjaimon)
+- [LeetCode](https://leetcode.com/bibinjaimon/)
 
 ## Skills
 
 Swift | SwiftUI | JavaScript | React Native | MVVM | MVC | Coordinator Pattern | SOLID Principle | Problem Solving | Algorithms and Data Structure
 
-## [Multi-app workspace setup project](https://github.com/bibin-jaimon/multi-app-setup-swiftui-2023/)
+## 🚀 [Multi-app workspace setup project](https://github.com/bibin-jaimon/multi-app-setup-swiftui-2023/)
 This project consist of 3 apps in one workspace. The modularization is done with SPM and XCFrameworks. Tech used is SwiftUI.
 
 <table>
