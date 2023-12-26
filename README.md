@@ -1,7 +1,7 @@
 
 <img src="assets/banner.png"></img>
 # Bibin Jaimon - iOS Developer Portfolio | SwiftUI
-- [Gmail](mailto:bibinjaimon@gmail.com) 
+- [Gmail](mailto:bibinjaimon@gmail.com) - bibinjaimon@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/bibinjaimon/)
 - [DEV.to](https://dev.to/bibinjaimon)
 - [LeetCode](https://leetcode.com/bibinjaimon/)
