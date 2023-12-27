@@ -104,9 +104,11 @@
 
 ## Professional Experience [2018 - Present]
 
- - [Deloitte Digital](https://www2.deloitte.com/us/en.html) (Consultant) | Mar 2022 - Present
- - [Vymo](https://vymo.com/) (Member Of Technical Staff) | Sep 2021 - Mar 2022
- - [QBurst](https://www.qburst.com/) (Senior Engineer) | May 2018 - Sep 2021
+| Company | Role | Duration |
+| --- | --- | --- |
+| [Deloitte Digital](https://www2.deloitte.com/us/en.html) | Consultant | Mar 2022 - Present
+| [Vymo](https://vymo.com/) | Member Of Technical Staff | Sep 2021 - Mar 2022
+| [QBurst](https://www.qburst.com/) | Senior Engineer | May 2018 - Sep 2021
 
 ## Online Certifications
 - [Blockchain Specialization](https://coursera.org/share/fd64d4ad80af14fd1efa013a25bb0a48) | Ethereum | Solidity | Web3.js
