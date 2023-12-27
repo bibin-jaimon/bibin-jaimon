@@ -8,7 +8,10 @@
 - [StackOverflow](https://stackoverflow.com/users/4591087/bibin-jaimon)
 ## Skills
 
-Swift | SwiftUI | JavaScript | React Native | MVVM | MVC | Coordinator Pattern | SOLID Principle | Problem Solving | Algorithms and Data Structure
+- Swift | JavaScript
+- SwiftUI | UIKit | CocoaTouch | React Native
+- MVVM | MVC
+- Coordinator Pattern | SOLID Principle | Problem Solving | Algorithms and Data Structure
 
 ## Projects
 ### 🚀 [Multi-app workspace setup project](https://github.com/bibin-jaimon/multi-app-setup-swiftui-2023/)
