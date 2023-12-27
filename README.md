@@ -10,6 +10,7 @@
 
 Swift | SwiftUI | JavaScript | React Native | MVVM | MVC | Coordinator Pattern | SOLID Principle | Problem Solving | Algorithms and Data Structure
 
+## Projects
 ## 🚀 [Multi-app workspace setup project](https://github.com/bibin-jaimon/multi-app-setup-swiftui-2023/)
 This project consist of 3 apps in one workspace. The modularization is done with SPM and XCFrameworks. Tech used is SwiftUI.
 
