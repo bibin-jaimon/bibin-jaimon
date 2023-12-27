@@ -88,6 +88,9 @@ This project consist of 3 apps in one workspace. The modularization is done with
 </tr>
 </table>
 
+### 🚀 [Apple Wallet Home Clone - ReactNative | TypeScript](https://github.com/bibin-jaimon/rn-wallet)
+Video Link: https://youtu.be/eJoyWtnbn_I
+
 ## Professional Experience [2018 - Present]
 
  - [Deloitte Digital](https://www2.deloitte.com/us/en.html) (Consultant) | Mar 2022 - Present
