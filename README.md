@@ -8,13 +8,6 @@
 - [StackOverflow](https://stackoverflow.com/users/4591087/bibin-jaimon)
 - [Twitter](https://twitter.com/home)
 
-<div align="center">
-   
-![bibin-jaimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibin-jaimon&theme=dark&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=bibin-jaimon&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
-
-</div>
-
 ## Skills
 
 - `Swift` | JavaScript | TypeScript
@@ -127,9 +120,16 @@
 
 - B. Tech in Computer Science and Engineering | Kannur University | 2014 - 2018
 
-<div>
+## Github Summary
+
+<div align="center">
+
+![bibin-jaimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibin-jaimon&theme=dark&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bibin-jaimon&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/> 
 ![Profile card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bibin-jaimon&theme=aura_dark)
+   
 <!---
 ![bibin-jaimon's Github Trophies](https://github-profile-trophy.vercel.app/?username=bibin-jaimon&theme=gruvbox)<br>
 --->
+
 </div>
