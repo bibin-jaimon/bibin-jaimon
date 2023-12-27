@@ -6,6 +6,7 @@
 - [DEV.to](https://dev.to/bibinjaimon)
 - [LeetCode](https://leetcode.com/bibinjaimon/)
 - [StackOverflow](https://stackoverflow.com/users/4591087/bibin-jaimon)
+- [Twitter](https://twitter.com/home)
 ## Skills
 
 - `Swift` | JavaScript | TypeScript
