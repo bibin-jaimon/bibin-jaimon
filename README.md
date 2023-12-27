@@ -18,7 +18,7 @@
  <summary>Multi-app workspace setup project - SPM | SwiftUI</summary>
 
 - This project consist of 3 apps in one workspace. The modularization is done with SPM and XCFrameworks. Tech used is SwiftUI.
-- code: https://github.com/bibin-jaimon/multi-app-setup-swiftui-2023/
+- Code: https://github.com/bibin-jaimon/multi-app-setup-swiftui-2023/
 
 #### Fructs
 
@@ -95,8 +95,8 @@
 <details>
 <summary>Apple Wallet Home Clone - ReactNative | TypeScript</summary>
  
-- Video Link: https://youtu.be/eJoyWtnbn_I
-- code: https://github.com/bibin-jaimon/rn-wallet
+- Demo: https://youtu.be/eJoyWtnbn_I
+- Code: https://github.com/bibin-jaimon/rn-wallet
  
 ![CloneImage](https://raw.githubusercontent.com/bibin-jaimon/rn-wallet/development/doc/ss-2.png)
 
