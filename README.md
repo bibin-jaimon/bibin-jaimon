@@ -15,7 +15,7 @@
 
 ## Projects
 <details>
- <summary>Multi-app workspace setup project - SPM | SwiftUI</summary>
+ <summary>Multi app workspace setup project - SPM | SwiftUI</summary>
 
 - This project consist of 3 apps in one workspace. The modularization is done with SPM and XCFrameworks. Tech used is SwiftUI.
 - Code: https://github.com/bibin-jaimon/multi-app-setup-swiftui-2023/
