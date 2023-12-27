@@ -8,9 +8,9 @@
 - [StackOverflow](https://stackoverflow.com/users/4591087/bibin-jaimon)
 ## Skills
 
-- Swift | JavaScript | TypeScript
-- SwiftUI | UIKit | CocoaTouch | React Native
-- MVVM | MVC
+- `Swift` | JavaScript | TypeScript
+- `SwiftUI` | `UIKit` | CocoaTouch | React Native
+- `MVVM` | MVC
 - Coordinator Pattern | SOLID Principle | Problem Solving | Algorithms and Data Structure
 
 ## Projects
