@@ -93,7 +93,7 @@
 </details>
 
 <details>
-<summary>Apple Wallet Home Clone - ReactNative | TypeScript</summary>
+<summary>Apple Wallet Clone - ReactNative | ReactNativeReAnimated | TypeScript</summary>
  
 - Demo: https://youtu.be/eJoyWtnbn_I
 - Code: https://github.com/bibin-jaimon/rn-wallet
