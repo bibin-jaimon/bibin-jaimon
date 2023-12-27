@@ -14,8 +14,11 @@
 - Coordinator Pattern | SOLID Principle | Problem Solving | Algorithms and Data Structure
 
 ## Projects
-### 🚀 [Multi-app workspace setup project - SPM | SwiftUI](https://github.com/bibin-jaimon/multi-app-setup-swiftui-2023/)
-This project consist of 3 apps in one workspace. The modularization is done with SPM and XCFrameworks. Tech used is SwiftUI.
+<details>
+ <summary>Multi-app workspace setup project - SPM | SwiftUI</summary>
+
+- This project consist of 3 apps in one workspace. The modularization is done with SPM and XCFrameworks. Tech used is SwiftUI.
+- code: https://github.com/bibin-jaimon/multi-app-setup-swiftui-2023/
 
 #### Fructs
 
@@ -87,6 +90,7 @@ This project consist of 3 apps in one workspace. The modularization is done with
 </td>
 </tr>
 </table>
+</details>
 
 <details>
 <summary>Apple Wallet Home Clone - ReactNative | TypeScript</summary>
