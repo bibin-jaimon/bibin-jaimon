@@ -95,9 +95,9 @@ This project consist of 3 apps in one workspace. The modularization is done with
  - [QBurst](https://www.qburst.com/) (Senior Engineer) | May 2018 - Sep 2021
 
 ## Online Certifications
-
-SwiftUI Masterclass 2023 - iOS App Development & Swift | Udemy | Pursuing
+- [Blockchain Specialization](https://coursera.org/share/fd64d4ad80af14fd1efa013a25bb0a48) | Ethereum | Solidity | Web3.js
+- SwiftUI Masterclass 2023 - iOS App Development & Swift | Udemy | Pursuing
 
 ## Education
 
-B. Tech in Computer Science and Engineering | Kannur University | 2014 - 2018
+- B. Tech in Computer Science and Engineering | Kannur University | 2014 - 2018
