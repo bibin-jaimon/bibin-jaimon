@@ -88,13 +88,11 @@ This project consist of 3 apps in one workspace. The modularization is done with
 </tr>
 </table>
 
-## Experience
+## Professional Experience [2018 - Present]
 
- [Deloitte Digital](https://www2.deloitte.com/us/en.html) (Consultant) | Mar 2022 - Present
-
- [Vymo](https://vymo.com/) (Member Of Technical Staff) | Sep 2021 - Mar 2022
-
- [QBurst](https://www.qburst.com/) (Senior Engineer) | May 2018 - Sep 2021
+ - [Deloitte Digital](https://www2.deloitte.com/us/en.html) (Consultant) | Mar 2022 - Present
+ - [Vymo](https://vymo.com/) (Member Of Technical Staff) | Sep 2021 - Mar 2022
+ - [QBurst](https://www.qburst.com/) (Senior Engineer) | May 2018 - Sep 2021
 
 ## Online Certifications
 
