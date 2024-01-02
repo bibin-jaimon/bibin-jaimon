@@ -16,7 +16,7 @@
 - Coordinator Pattern | SOLID Principle | Problem Solving | Algorithms and Data Structure
 
 ## Projects
-<details>
+<details open>
  <summary>Multi app workspace setup project - SPM | SwiftUI</summary>
 
 - This project consist of 3 apps in one workspace. The modularization is done with SPM and XCFrameworks. Tech used is SwiftUI.
@@ -94,7 +94,7 @@
 </table>
 </details>
 
-<details>
+<details open>
 <summary>Apple Wallet Clone - ReactNative | ReactNativeReAnimated | TypeScript</summary>
  
 - Demo: https://youtu.be/eJoyWtnbn_I
