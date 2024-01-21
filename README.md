@@ -9,7 +9,7 @@
 - `Swift` | JavaScript | TypeScript
 - `SwiftUI` | `UIKit` | CocoaTouch | React Native
 - `MVVM` | MVC
-- Coordinator Pattern | Config driven development | SOLID Principle | Problem Solving | Algorithms and Data Structure
+- `Coordinator Pattern` | Config driven development | `SOLID` Principle | Problem Solving | Algorithms and Data Structure
 - Module development using `XCFramework` and `SPM`
 
 ## Professional Experience [2018 - Present]
