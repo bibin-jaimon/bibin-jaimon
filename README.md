@@ -16,7 +16,8 @@
 
 | Company | Role | Duration |
 | --- | --- | --- |
-| [Deloitte Digital](https://www2.deloitte.com/us/en.html) | Consultant | Mar 2022 - Present
+| [Fox Corporation](https://www.foxcorporation.com/) | SDE II | Feb 2024 - Present
+| [Deloitte Digital](https://www2.deloitte.com/us/en.html) | Consultant | Mar 2022 - Feb 2024
 | [Vymo](https://vymo.com/) | Member Of Technical Staff | Sep 2021 - Mar 2022
 | [QBurst](https://www.qburst.com/) | Senior Engineer | May 2018 - Sep 2021
 
